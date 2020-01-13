@@ -6,6 +6,9 @@ For more information on building JavaScript or NodeJS applications, see [JavaScr
 # CI
 [![Build Status](https://dev.azure.com/ztgtt2004/examplejavascript/_apis/build/status/TingtingGu2014.pipelines-javascript?branchName=master)](https://dev.azure.com/ztgtt2004/examplejavascript/_build/latest?definitionId=4&branchName=master)
 
+# Job Status
+https://dev.azure.com/ztgtt2004/examplejavascript/_build/results?buildId=13&view=logs&j=12f1170f-54f2-53f3-20dd-22fc7dff55f9
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
