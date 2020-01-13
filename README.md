@@ -7,7 +7,7 @@ For more information on building JavaScript or NodeJS applications, see [JavaScr
 [![Build Status](https://dev.azure.com/ztgtt2004/examplejavascript/_apis/build/status/TingtingGu2014.pipelines-javascript?branchName=master)](https://dev.azure.com/ztgtt2004/examplejavascript/_build/latest?definitionId=4&branchName=master)
 
 # Job Status
-https://dev.azure.com/ztgtt2004/examplejavascript/_build/results?buildId=13&view=logs&j=12f1170f-54f2-53f3-20dd-22fc7dff55f9
+[![Build Status](https://dev.azure.com/ztgtt2004/examplejavascript/_apis/build/status/TingtingGu2014.pipelines-javascript?branchName=master&jobName=Job)](https://dev.azure.com/ztgtt2004/examplejavascript/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
